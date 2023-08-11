@@ -14,7 +14,7 @@ Here is an example of what we will have by the end of this practice exercise.
 
 ![screen shot](screenshot.png)
 
-First thing that we will need to do is open up our code editor of choice. For this course, I'll probably mostly be using either [VS Code](https://code.visualstudio.com/) or notepadd++. If you are following along with me for this exercise, then open up VS Code now.
+First thing that we will need to do is open up our code editor of choice. For this course, I'll probably mostly be using either [VS Code](https://code.visualstudio.com/) or [notepadd++](https://notepad-plus-plus.org/). If you are following along with me for this exercise, then open up VS Code now.
 
 When you open up VS code you should see this screen: 
 
