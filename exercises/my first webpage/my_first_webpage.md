@@ -115,7 +115,7 @@ For this class, we will be hosting files on rit's banjo server, located at `banj
 
 We will need a way to copy paste or transfer the files from our local computer to the banjo server. 
 
-I'll be using [Filezilla](https://filezilla-project.org/) for this. But you can use and FTP software you like. 
+I'll be using [Filezilla](https://filezilla-project.org/) for this. But you can use any FTP software you like. 
 
 ![screen shot](6.png)
 
