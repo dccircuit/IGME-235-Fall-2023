@@ -179,7 +179,7 @@ people.rit.edu hosts the personal web sites of the students, faculty, and staff 
 
 As a student, faculty, or staff member you receive 1Gb of space to your host personal site, portfolio, resume, class projects, and whatever else you can dream up.
 
-Open up your web browser and type in: `https://people.rit.edu/nabigm/` That's my page. but if you swap out `nabigm` for your rit such as `abc1234` you should see your personal space. 
+Open up your web browser and type in: `https://people.rit.edu/nabigm/` That's my page. but if you swap out `nabigm` for your rit id such as `abc1234` you should see your personal space. 
 
 Then, to see your actual webpage, you need to go to the actual file.
 
