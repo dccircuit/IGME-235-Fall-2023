@@ -182,7 +182,7 @@ add a "submenu" class to the li tag of the Official Site menu item.
 Add this css!
 
 ```
-.menu .submenu li>a {
+.menu .submenu li>a:hover {
     background:red;
     color:yellow;
 }

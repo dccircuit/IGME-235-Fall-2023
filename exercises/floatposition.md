@@ -2,7 +2,7 @@
 
 It's time to usher in a new era.  What better to use to learn about floating boxes than floating boxes?  
 
-Before you get started, the instructor will give you a preview of the kind of thing we're expecting you to build on the projector.  If you're in an online section or not able to go to the Tuesday/Wednesday in-person session, be sure to watch the preview video in myCourses.  You don't have to replicate it exactly, but it should give you an idea of what we're looking for.
+Before you get started, the instructor will give you a preview of the kind of thing we're expecting you to build on the projector.  If you're in an online section or not able to go to the in-person session, be sure to watch the preview video in myCourses.  You don't have to replicate it exactly, but it should give you an idea of what we're looking for.
 
 ## Do the following:
 **RULE ONE: Don't edit the HTML file! Only edit the linked CSS file (which starts empty)**
