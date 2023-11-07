@@ -97,7 +97,7 @@ For this project you are creating a JavaScript driven Web application that utili
   - with a custom interface coded in HTML/CSS, by you
   - this interface does not closely resemble the GIPHY homework's UI
 - Widgets are well labeled and follow interface conventions, for example:
-  - radio buttons are for mutually exclusive options, checkboxes are for when you want to let the user choose *multiple* options - https://delib.zendesk.com/hc/en-us/articles/203430309-Radio-button-vs-checkbox-what-s-the-difference-
+  - radio buttons are for mutually exclusive options, checkboxes are for when you want to let the user choose *multiple* options - [https://delib.zendesk.com/hc/en-us/articles/203430309-Radio-button-vs-checkbox-what-s-the-difference-](https://www.nngroup.com/articles/checkboxes-vs-radio-buttons/)
   
 - Users should be able to figure out how to use the app with minimal instruction:
   - be sure to provide instruction and tooltips if necessary
