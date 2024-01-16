@@ -24,7 +24,6 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - https://people.rit.edu/ces5666/235/project1
 - https://people.rit.edu/mhc4466/235/project1/
 - https://people.rit.edu/nsw7227/
-- https://people.rit.edu/axt6773/235/project1/
 - https://people.rit.edu/cam8030/conniem
 - https://people.rit.edu/jts4605/portfolio/
 - https://people.rit.edu/tmm8046/235/project1
@@ -33,7 +32,6 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - https://people.rit.edu/jdh5563/
 - https://people.rit.edu/kcj7751/235/project1/
 - https://people.rit.edu/msm6982/235/project1/
-- https://people.rit.edu/cms5882/235/project1/
 
 #### Previous Demo Portfolios
 - https://www.katiepustolski.com/
