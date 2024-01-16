@@ -34,13 +34,10 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - https://people.rit.edu/msm6982/235/project1/
 
 #### Previous Demo Portfolios
-- https://www.katiepustolski.com/
 - http://brianemling.com/
 - https://dougwatro.com/
 - https://people.rit.edu/mjc9536/235/project1/
 - https://people.rit.edu/dmd7488/
-- https://people.rit.edu/dg1229/portfolio
-- https://people.rit.edu/jml8375/235/Project1/
 - https://people.rit.edu/nqs3694/Portfolio/
 - https://people.rit.edu/nfb1799/portfolio
 - https://people.rit.edu/hc8756/235/project1/
@@ -49,18 +46,13 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - https://people.rit.edu/lep2738/portfolio/
 - https://people.rit.edu/ajr6974/230/portfolio/
 - https://people.rit.edu/ncs2738/portfolio/
-- https://people.rit.edu/jcs1738/230/portfolio/
 - https://people.rit.edu/rcm4155/230/portfolio/
-- https://people.rit.edu/ctb4332/portfolio/
-- https://people.rit.edu/acm1551/235/portfolio/
 - https://people.rit.edu/txa7348
 - https://people.rit.edu/kle4382/portfolio/
 - https://people.rit.edu/cre1467
 - https://people.rit.edu/cjm8652/
-- https://people.rit.edu/ald1289/portfolio/
 - https://people.rit.edu/dls7470/235/portfolio/
 - http://lightling.xyz/
-- https://people.rit.edu/wsb6157
 - https://people.rit.edu/nzl6723/235/portfolio/
 - https://people.rit.edu/nkz4713/235/portfolio/
 - https://people.rit.edu/vae3742/235/portfolio/
